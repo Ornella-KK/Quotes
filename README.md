@@ -8,3 +8,4 @@ Kankazi Kayitaba Ornella
 * OUTPUT: Quote added to other quotes
 ## Live Link
 https://Ornella-KK.github.io/Quotes/
+### License & Copyright
