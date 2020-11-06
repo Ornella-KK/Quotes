@@ -9,8 +9,8 @@ Kankazi Kayitaba Ornella
 ### Setup Installation
 Fork the repository to your github account https://github.com/Ornella-KK/Quotes.git
 Clone this repository to a location in your file system. eg.Desktop
-Open terminal command line then navigate to the root folder of the application. cd pizza-litalia
-Open index.html on your Browser.
+Open terminal command line then navigate to the root folder of the application. cd Quotes
+Type ng serve and see the live link and open the app
 ## Live Link
 https://Ornella-KK.github.io/Quotes/
 ### License & Copyright
