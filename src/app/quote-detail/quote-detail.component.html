@@ -1,2 +1,4 @@
 <p>{{quote.quot}}</p>
 <button (click)= 'quoteDelete(true)' class="btn btn-outline-danger">Delete</button>
+<button (click)= 'upvote()' class="btn btn-outline-success" id="upvote">{{quote.upvote}}up vote</button>
+<button (click)= 'downvote()' class="btn btn-outline-danger" id="downvote">{{quote.downvote}}down vote</button>
