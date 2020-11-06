@@ -26,6 +26,12 @@ export class QuoteComponent implements OnInit {
       this.quotes.splice(index,1);
     }
   }
+  upvote(i){
+    this.quotes[i].upvotes ++;
+  }
+  downvote(i){
+    this.quotes[i].downvotes ++;
+  }
 
   deleteQuote(isComplete, index){
     if (isComplete) {

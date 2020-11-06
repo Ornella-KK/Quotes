@@ -7,6 +7,10 @@
       <div *ngFor='let quote of quotes;let i = index'>
         <div>
           <h6 id={{i}} >{{quote.Author}} on {{quote.completeDate|date}}</h6>
+          <button class="btn btn-info" (click)="upvote(i)">Upvote </button>
+
+          <button class="btn btn-info" (click)="downvote(i)">Downvote </button>
+          
           <button (click)='toggleDetails(i)' class="btn btn-primary">See Quote</button>
         </div>
 
