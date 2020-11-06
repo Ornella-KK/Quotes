@@ -9,3 +9,4 @@ Kankazi Kayitaba Ornella
 ## Live Link
 https://Ornella-KK.github.io/Quotes/
 ### License & Copyright
+MIT
