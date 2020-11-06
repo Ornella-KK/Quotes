@@ -6,6 +6,11 @@ Kankazi Kayitaba Ornella
 ## How It Works
 * INPUT: Author,Quote,Date.
 * OUTPUT: Quote added to other quotes
+### Setup Installation
+Fork the repository to your github account https://github.com/Ornella-KK/Pizza-litalia.git
+Clone this repository to a location in your file system. eg.Desktop
+Open terminal command line then navigate to the root folder of the application. cd pizza-litalia
+Open index.html on your Browser.
 ## Live Link
 https://Ornella-KK.github.io/Quotes/
 ### License & Copyright
