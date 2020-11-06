@@ -7,10 +7,10 @@ Kankazi Kayitaba Ornella
 * INPUT: Author,Quote,Date.
 * OUTPUT: Quote added to other quotes
 ### Setup Installation
-Fork the repository to your github account https://github.com/Ornella-KK/Quotes.git
-Clone this repository to a location in your file system. eg.Desktop
-Open terminal command line then navigate to the root folder of the application. cd Quotes
-Type ng serve and see the live link(http://localhost:4200/) and the app is displayed
+* Fork the repository to your github account https://github.com/Ornella-KK/Quotes.git
+* Clone this repository to a location in your file system. eg.Desktop
+* Open terminal command line then navigate to the root folder of the application. cd Quotes
+* Type ng serve and see the live link(http://localhost:4200/) and the app is displayed
 ## Live Link
 https://Ornella-KK.github.io/Quotes/
 ### License & Copyright
