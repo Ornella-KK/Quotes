@@ -10,3 +10,4 @@ Kankazi Kayitaba Ornella
 https://Ornella-KK.github.io/Quotes/
 ### License & Copyright
 MIT
+Copyright (C) 2020
